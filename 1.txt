@@ -4,3 +4,4 @@ developer 2
 fit fetch
 this line added by developer 1
 this line added by developer 2
+developer 2 conflict 2
