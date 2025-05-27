@@ -3,4 +3,5 @@ this is done from remote repository.
 developer 2
 fit fetch
 this line added by developer 1
-this line added by developer 2
+ithis line added by developer 2
+This line added to check conflict from tool.
