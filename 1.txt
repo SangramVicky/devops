@@ -9,3 +9,4 @@ This line added to check conflict from tool.
 this line added by developer 2
 developer 2 conflict 2
 this is for testing stash check
+stash 2
